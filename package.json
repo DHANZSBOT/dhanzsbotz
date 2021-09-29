@@ -1,7 +1,7 @@
 {
-  "name": "BOTZ10",
+  "name": "DHANZS BOT",
   "version": "0.0.10",
-  "description": "Wabot",
+  "description": "Dhanzsbot",
   "main": "index.js",
   "directories": {
     "lib": "lib"
